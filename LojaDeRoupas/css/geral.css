@@ -1,0 +1,14 @@
+#top{
+    padding: 30px;
+}
+
+#container{
+    padding: 20px;
+}
+
+.titulo{
+    color: #FFFFFF;
+    border-radius: 10px;
+    background-color: #141414;
+    text-align: center;
+}
